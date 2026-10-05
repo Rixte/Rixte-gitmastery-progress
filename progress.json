@@ -151,5 +151,14 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1791214362.924893,
+    "completed_at": 1791214364.547869,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
   }
 ]
